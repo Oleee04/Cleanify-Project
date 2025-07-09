@@ -53,6 +53,6 @@ Silakan beri ⭐️ atau fork jika kamu ingin menggunakan desain ini untuk pembe
 
 ## 📜 LISENSI
 
-Distributed under the **MIT License**.  
-Silakan lihat file `LICENSE` untuk informasi lebih lanjut.
+MIT License © 2025 – BPSDM UI/UX Design by Olee04
+
 
