@@ -1,7 +1,6 @@
 # ✨ CLEANIFY – APLIKASI LAYANAN KEBERSIHAN MODERN BERBASIS FIGMA
 
-**Cleanify** adalah desain proyek aplikasi mobile untuk layanan kebersihan profesional, dibuat dengan pendekatan **UI/UX modern dan minimalis**.  
-Desain ini dikembangkan menggunakan **Figma** dan siap diimplementasikan ke dalam aplikasi nyata menggunakan teknologi populer seperti Flutter atau React Native.
+Cleanify adalah desain proyek aplikasi mobile untuk layanan kebersihan profesional, dibuat dengan pendekatan UI/UX modern dan minimalis. Desain ini dikembangkan menggunakan Figma dan siap diimplementasikan ke dalam aplikasi nyata.
 
 ---
 
