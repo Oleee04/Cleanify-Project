@@ -52,6 +52,6 @@ Silakan beri ⭐️ atau fork jika kamu ingin menggunakan desain ini untuk pembe
 
 ## 📜 LISENSI
 
-MIT License © 2025 – BPSDM UI/UX Design by Olee04
+MIT License © 2025 – CLEANIFY UI/UX Design by Olee04
 
 
