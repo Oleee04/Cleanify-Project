@@ -27,7 +27,7 @@ Cleanify adalah desain proyek aplikasi mobile untuk layanan kebersihan profesion
 
 ## 🔗 LINK DESAIN
 
-📌 [[Lihat Prototipe di Figma](https://www.figma.com/...)](https://www.figma.com/design/eXXC7UgNipfr3vgelLaZii/Cleanify-Project?node-id=0-1&t=4hYzfIUAy4Z69PLC-1)
+📌 https://www.figma.com/design/eXXC7UgNipfr3vgelLaZii/Cleanify-Project?node-id=0-1&t=4hYzfIUAy4Z69PLC-1
 
 ---
 
